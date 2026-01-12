@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "123superempowered-openai-template",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "123superempowered-openai-template",
+			"database_id": "1d5a8940-c35d-479d-b4bd-d035b0fe41ec"
+		}
+	]
+}
