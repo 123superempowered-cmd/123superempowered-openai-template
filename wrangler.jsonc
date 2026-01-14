@@ -1,7 +1,7 @@
 {
 	"compatibility_date": "2025-10-08",
 	"main": "src/index.ts",
-	"name": "123superempowered-openai-template",
+	"name": "123superempowereddetail2",
 	"upload_source_maps": true,
 	"observability": {
 		"enabled": true
